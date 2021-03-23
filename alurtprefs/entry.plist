@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = AlurtPrefs;
+	cell = PSLinkCell;
+	detail = AlurtPrefsListController;
+	icon = prefs.png;
+	isController = 1;
+	label = Alurt!;
+    };
+}
